@@ -515,7 +515,7 @@ cmake --install build
     <img src="https://github.com/You-yj/off_st1_w4_install/blob/main/learning_note_photo/zudui_1.png?raw=true" width="500" />
 </div>
 <div align="center">
-    <img src="https://github.com/You-yj/off_st1_w4_install/blob/main/learning_note_photo/zudui_2.png?raw=true" width="666" />
+    <img src="https://github.com/You-yj/off_st1_w4_install/blob/main/learning_note_photo/zudui_2.png?raw=true" width="800" />
 </div>
 
 
