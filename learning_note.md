@@ -1,8 +1,9 @@
 # 运行截图
 
 <div align="center">
-    <img src="https://github.com/You-yj/off_st1_w4_install/blob/main/486ae71fd5ae53ed4762762f54490686.png?raw=true" width="500" />
+    <img src="https://github.com/You-yj/off_st1_w4_install/blob/main/486ae71fd5ae53ed4762762f54490686.png?raw=true" width="1000" />
 </div>
+
 
 # 一、任务理解
 
@@ -26,7 +27,7 @@
 
 ## 1. 参数化测试 `@pytest.mark.parametrize`
 
-1. 核心作用：消除重复测试样板代码，一组逻辑批量覆盖多组输入输出；支持多层参数笛卡尔积组合（多后端 numpy/pytorch × 多组测试矩阵）。
+1. 核心作用：消除重复测试样板代码，一组逻辑批量覆盖多组输入输出，结构更加清晰、维护成本更低
 2. 使用场景：矩阵 tril 提取、矩阵加法、向量点积等大量同结构正向计算用例。
 3. 核心优势：新增测试场景仅需在数据集列表新增一条元组，不用复制整个测试函数；每组参数独立执行，单组失败不影响其余用例，报错精准定位输入样例。
 
